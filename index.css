@@ -1,11 +1,11 @@
 .container {
     display: grid;
-    padding-left: 500px;
+    place-items: center;
 }
 
 body {
     background-color: antiquewhite;
-    place-items: center;
+    
 }
 
 .column {
