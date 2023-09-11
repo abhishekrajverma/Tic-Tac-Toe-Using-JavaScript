@@ -1,0 +1,22 @@
+.container {
+    display: grid;
+    padding-left: 500px;
+}
+
+body {
+    background-color: antiquewhite;
+    place-items: center;
+}
+
+.column {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+
+}
+
+.row {
+    display: flex;
+
+
+}
