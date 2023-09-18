@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: antiquewhite;
+    background-color: gray;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
@@ -25,4 +25,15 @@ body {
     display: flex;
 
 
+}
+
+.rep{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+
+button{
+    background-color: black;
 }
