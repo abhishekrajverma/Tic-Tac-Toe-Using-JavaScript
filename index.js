@@ -1,6 +1,5 @@
 let currentPlayer = "X";
 let array = Array(9).fill(null);
-
 function checkWinner() {
     if (
         (array[0] !== null && array[0] == array[1] && array[1] == array[2]) ||
